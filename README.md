@@ -15,7 +15,7 @@ o	price
 •	Dataset: House Price Dataset 
 •	Problem: Predict house price. 
 •	Features (X): 
-o	square_feet – size of the house. 
+o	square_feet – size of the house
 o	num_rooms – number of rooms. 
 o	age – age of the house in years. 
 o	distance_to_city(km) – distance from the city centre. 
